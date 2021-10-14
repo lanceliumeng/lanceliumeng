@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lanceliumeng
+- 👋 Hi, I’m @LanceLiu
 - 👀 I’m interested in ...PC Game,gym work out, fishing
 - 🌱 I’m currently learning ...MEL
 - 💞️ I’m looking to collaborate on ...professional coders 
