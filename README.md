@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @LanceLiu
-- 👀 I’m interested in ...PC Game,gym work out, fishing
+### Hi There 👋👋
+
+- 😁 I’m LanceLiu 
+- 👀 I’m interested in ...PC Game,gym work out, fishing and CODING~~~
 - 🌱 I’m currently learning ...MEL
-- 💞️ I’m looking to collaborate on ...professional coders 
+- 💞️ I’m looking to BE A professional coders or Webdevelopers
 - 📫 How to reach me ...to be continued 
 
 <!---
