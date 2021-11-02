@@ -1,9 +1,13 @@
 ### Hi There 👋👋
 
 - 😁 I’m LanceLiu 
-- 👀 I’m interested in ...PC Game,gym work out, fishing and CODING~~~
+
+- 👀 I’m interested in ...PC Games, gym workout, fishing and CODING~~~
+
 - 🌱 I’m currently learning ...MEL
-- 💞️ I’m looking to BE A professional coders or Webdevelopers
+
+- 💞️ I’m looking to BE A professional coder or Web developer
+
 - 📫 How to reach me ...to be continued 
 
 <!---
