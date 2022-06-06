@@ -1,16 +1,79 @@
-### Hi There 👋👋
+<!--First section: div header start  -->
+<div id="header" align="center">
+  <!--  header gif img  -->
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 
-- 😁 I’m LanceLiu 
+  <!--  header badges  -->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/lance-liu-03397220b/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/lanceliumeng">
+      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    </a>
+   </div>
+  
+  <!--GitHub Profile Views Counter-->
+  <img src="https://komarev.com/ghpvc/?username=lanceliumeng&style=flat-square&color=blue" alt=""/>
+  
+  <!-- last part in this section   -->
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50px" height="50px"/>
+  </h1>
+</div>
+ <!--First section: div header end  -->
 
-- 👀 I’m interested in ...PC Games, gym workout, fishing and CODING~~~
+<!--Second section start: div start  -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
+</div>
 
-- 🌱 I’m currently learning ...MEL
+ <!-- About me part start:  -->
+ ---
+ 
+ ### :man_technologist: About Me :
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="60"> and I am living in Australia
+- :telescope: I’m looking for a job and keen to join your company as a full-stack developer.
 
-- 💞️ I’m looking to BE A professional coder or Web developer
+- :seedling: Exploring Code Writing and New Tech Stack.
 
-- 📫 How to reach me ...to be continued 
+- :video_game: In my free time, I like to workout, learn new knowledge about computing science and play video games.
 
-<!---
-lanceliumeng/lanceliumeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+  <!-- About me part end  -->
+<!--Second section end: div end  -->
+
+<!--Third section start: -->
+---
+
+### :toolbox:	 Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+<!--Third section end -->
+
+<!--Last section start: -->
+---
+
+### :sunny:	 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanceliumeng&theme=react)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanceliumeng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--Last section end -->
