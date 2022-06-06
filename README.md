@@ -18,7 +18,7 @@
   
   <!-- last part in this section   -->
   <h1>
-    hey there
+    Hey There
     <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50px" height="50px"/>
   </h1>
 </div>
