@@ -19,7 +19,7 @@
   <!-- last part in this section   -->
   <h1>
     Hey There
-    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="30px" height="30px"/>
+    <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b76114d32002f26d19505176a2b4c7b7ca14f2945c26b&rid=giphy.gif&ct=s" width="30px"/>
   </h1>
 </div>
  <!--First section: div header end  -->
