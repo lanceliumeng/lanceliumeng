@@ -76,6 +76,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanceliumeng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanceliumeng&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanceliumeng&show_icons=true&theme=default)
 
 <!--Last section end -->
