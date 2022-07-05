@@ -71,9 +71,11 @@
 <!--Last section start: -->
 ---
 
-### :sunny:	 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanceliumeng&theme=react)](https://git.io/streak-stats)
+### :sunny:	 My GitHub Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lanceliumeng&theme=react)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanceliumeng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanceliumeng&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanceliumeng&show_icons=true&theme=radical)
 
 <!--Last section end -->
